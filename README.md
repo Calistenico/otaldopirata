@@ -53,15 +53,7 @@
             color: #ff5722; /* Cor de destaque ao passar o mouse */
         }
 
-        .image-text {
-            display: flex;
-            justify-content: flex-start;
-            align-items: center;
-            margin: 20px;
-            background-color: rgba(0, 0, 0, 0.7);
-            padding: 20px;
-            border-radius: 10px;
-        }
+
 
         .image-text img {
             width: 300px;
