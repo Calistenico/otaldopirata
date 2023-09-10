@@ -609,9 +609,7 @@
                                 </div>
                             </div>
                         </section>
-                    </body>
-                    </html>
-            
+
         
 
         <title>Página de Venda</title>
