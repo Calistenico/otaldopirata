@@ -646,4 +646,3 @@
             <p>&copy;🃏 2023 Pirata Rei da Roleta ♣️♥️♠️♦️ Todos os direitos reservados 🇧🇷</p>
         </footer>
     </body>
-    </html>
