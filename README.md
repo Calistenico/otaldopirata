@@ -53,7 +53,15 @@
             color: #ff5722; /* Cor de destaque ao passar o mouse */
         }
 
-
+        .image-text {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            margin: 20px;
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+        }
 
         .image-text img {
             width: 300px;
@@ -104,7 +112,7 @@
         }
 
         .cta-button:hover {
-            background-color: #ff4500; /* Cor de destaque ao passar o mouse */
+            background-color: #332621; /* Cor de destaque ao passar o mouse */
         }
 
         .product-image {
@@ -139,7 +147,7 @@
                 <li><a href="https://t.me/sinaisdaroletapirata">🎯 Sinais de Roleta</a></li>
                 <li><a href="https://wa.me/554899626351">📞 Contato</a></li>
                 <li><a href="https://m.kwai.com/user/150001037408979?fid=150001037408979&cc=COPY_LINK&language=pt-br&share_device_id=ANDROID_8ef9dcea21d12487&share_id=ANDROID_8ef9dcea21d12487_1694290150199&share_uid=150001037408979&timestamp=1694290150199&share_item_type=profile&share_item_info=150001037408979">📺 Vídeos</a></li>
-                <li><a href="#venda">🤖 Robos</a></li>
+                <li><a href="#venda">🤖 Comprar Robos</a></li>
                 <li><a href="https://www.magazinevoce.com.br/magazinedropshippingon/">🎮 Produtos</a></li>
                 <li><a href="https://calistenico.github.io/cursos/">🎓 Cursos</a></li>
             </ul>
@@ -315,8 +323,8 @@
         }
 
         #videos .cta-button {
-            background-color: white;
-            color: #ff5722;
+            background-color: rgb(228, 20, 20);
+            color: #c7c5c4;
             padding: 20px 40px;
             font-weight: bold;
             text-decoration: none;
@@ -327,7 +335,7 @@
         }
 
         #videos .cta-button:hover {
-            background-color: #ff4500;
+            background-color: #2c2320;
         }
 
         /* Estilo para seção de venda do robô de sinais */
@@ -377,8 +385,8 @@
         }
 
         #venda .cta-button {
-            background-color: #ff5722;
-            color: white;
+            background-color: #ca5a34;
+            color: rgb(206, 200, 200);
             padding: 12px 24px;
             border: none;
             border-radius: 5px;
@@ -391,7 +399,7 @@
         }
 
         #venda .cta-button:hover {
-            background-color: #ff4500;
+            background-color: #362a25;
         }
     </style>
 
@@ -425,7 +433,7 @@
                 background-size: cover;
                 background-repeat: no-repeat;
                 background-position: center;
-                color: #f7f7f7;
+                color: #dd1c1c;
                 text-align: center;
                 padding: 100px 0;
                 border-radius: 10px;
@@ -469,8 +477,8 @@
             }
     
             #venda .cta-button {
-                background-color: #fffefe;
-                color: rgb(221, 5, 5);
+                background-color: #e91212;
+                color: rgb(238, 237, 237);
                 padding: 12px 24px;
                 border: none;
                 border-radius: 5px;
@@ -483,7 +491,7 @@
             }
     
             #venda .cta-button:hover {
-                background-color: #ff4500;
+                background-color: #3a2a24;
             }
         </style>
 
@@ -587,7 +595,7 @@
                                     <img src="https://pronep.s3.amazonaws.com/wp-content/uploads/2022/10/14235834/tecnologia-medicina-2.png" alt="Robôs à Venda">
                                 </div>
                                 <div class="product-info">
-                                    <h2>🤖 Nossos Robôs Para Você!</h2>
+                                    <h2 style="font-size: 36px; font-weight: bold; color: #ff5722;">🤖 Nossos Robôs Para Você!</h2>
                                     <p>Conheça nossos incríveis robôs, projetados para tornar sua vida mais fácil e eficaz:</p>
                                     <ul>
                                         <li>🎯   Robô de Sinais de Roleta Brasileira 🤖:  
@@ -637,4 +645,4 @@
         <footer>
             <p>&copy;🃏 2023 Pirata Rei da Roleta ♣️♥️♠️♦️ Todos os direitos reservados 🇧🇷</p>
         </footer>
-    </body>
+</head>
