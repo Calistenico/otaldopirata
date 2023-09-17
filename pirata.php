@@ -4,7 +4,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST["email"];
     
     // Caminho para o arquivo de texto onde os emails serão armazenados
-$file = "cadastros/dados.txt";
+    $file = "cadastros/dados.txt";
 
     
     // Abre o arquivo em modo de escrita (append)
