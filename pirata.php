@@ -4,7 +4,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST["email"];
     
     // Caminho para o arquivo de texto onde os emails serão armazenados
-    $file = "C:\\Users\\Teste 2022\\Desktop\\site\\emails.txt";
+    $file = "https://github.com/Calistenico/otaldopirata/edit/main/README.md";
     
     // Abre o arquivo em modo de escrita (append)
     $fileHandle = fopen($file, "a");
