@@ -4,7 +4,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST["email"];
     
     // Caminho para o arquivo de texto onde os emails serão armazenados
-    $file = "https://github.com/Calistenico/otaldopirata/edit/main/README.md";
+$file = "cadastros/dados.txt";
+
     
     // Abre o arquivo em modo de escrita (append)
     $fileHandle = fopen($file, "a");
