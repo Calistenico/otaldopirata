@@ -2,8 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>Curso de Gestão de Tráfego</title>
     <style>
         body {
@@ -44,13 +42,18 @@
         .copy {
             font-size: 21px;
             line-height: 1.6;
+            color: white;
+            text-align: center;
         }
         .cta-button {
-            display: inline-block;
+            display: block;
+            width: 50%;
+            margin: 20px auto;
             padding: 15px 30px;
             background-color: #ff5733;
             color: #fff;
             font-size: 20px;
+            text-align: center;
             text-decoration: none;
             border-radius: 5px;
             transition: background-color 0.3s;
@@ -74,6 +77,27 @@
             margin: 0 10px;
             border-radius: 50%;
         }
+        
+        /* Estilo para o contêiner de vídeo */
+        .video-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .video-container iframe {
+            max-width: 100%;
+            height: auto;
+        }
+        
+        /* Estilo para o título do vídeo */
+        .video-title {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 24px;
+            font-weight: bold;
+            color: white;
+        }
+        
         /* Informações de contato */
         .contact {
             text-align: center;
@@ -87,6 +111,11 @@
             border-radius: 5px;
             margin-left: 10px; /* Espaço à esquerda do preço */
             display: inline-block; /* Para alinhar ao lado do botão */
+        }
+        .video-container img {
+            max-width: 30%;
+            height: auto;
+            width: 30%;
         }
         
         .contact a {
@@ -111,42 +140,76 @@
         <img class="photo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_BaRWySsxkdhpDkGjVWCpsRSmm6AFIyXkQ&usqp=CAU" alt="Foto 1">
         <img class="photo" src="https://www.designi.com.br/images/preview/10654820.jpg" alt="Foto 1">
     </div>
+
     <div class="container">
-        <div class="headline">Por que você deve se inscrever no nosso curso?</div>
-        <div class="copy" style="color: white;">
-            <p><strong>Aprenda com os melhores 🌟:</strong> Nossos especialistas em marketing digital têm um histórico comprovado de sucesso em gestão de tráfego. 🚀</p>
-            <p><strong>Conhecimento prático e eficaz 📈:</strong> Este curso oferece orientação prática para transformar cliques em conversões e clientes leais. Você verá resultados imediatos! 💡</p>
-            <p><strong>Domine as principais plataformas 📱:</strong> Descubra os segredos por trás do tráfego pago no Google Ads, Facebook, Instagram e muito mais. Esteja à frente da concorrência! 🏆</p>
-            <p><strong>Aumente sua receita 💰:</strong> Saiba como otimizar suas campanhas para obter o máximo retorno sobre o investimento. Cada clique conta! 💸</p>
-            <p><strong>Bônus exclusivos para os mais rápidos 🎁:</strong> Inscrições antecipadas recebem uma sessão de coaching individual para impulsionar seu sucesso. Além disso, tenha acesso vitalício ao material do curso e junte-se à nossa comunidade exclusiva de alunos. Não perca essa oportunidade! 🚀</p>
-        </div>
+        <div class="headline" style="color: #ff5733;">📈Por que você deve se inscrever no nosso curso?</div>
+        <div class="copy">
+            <p><strong style="color: #5878d1;">Prepare-se para uma transformação radical! 🌟</strong> Nossos especialistas em marketing digital são verdadeiros titãs, dominando a arte da gestão de tráfego como ninguém mais! 🚀</p>
+            <p><strong style="color: #06e611;">Não perca tempo com cursos sem resultados! 📈</strong> Este curso é um verdadeiro atalho para o sucesso, transformando cliques em conversões com a eficiência de um míssil teleguiado. Resultados? Imediatos e extraordinários! 💡</p>
+            <div class="video-container">
+                <div class="video-title">
+                    <div class="headline" style="color: #ff5733;">Gestor de Tráfego Pago!</p>
+                    <div style="text-align: center; margin-top: 20px;">
+                        <img src="https://evertonbrito.com.br/wp-content/uploads/2023/01/Everton-Brito.gif" alt="Gestão de Tráfego" style="max-width: 100%; height: auto;">
+                    </div>
+                </div>
+            </div>
         
-        <div class="cta-button">
-            <a href="https://go.hotmart.com/D86832944Q">Inscreva-se agora</a>
-            <div class="course-price">
-               Apenas: R$ 24,99
+            <p><strong style="color: #06e611;">Você está pronto para deixar a concorrência comendo poeira? 🏆</strong> Aqui, revelamos os segredos mais obscuros do tráfego pago no Google Ads, Facebook, Instagram e muito mais. Esteja à frente, esteja à frente agora! 💪</p>
+            <p><strong style="color: #5878d1;">Quer dinheiro? 💰</strong> Você veio ao lugar certo! Descubra como otimizar suas campanhas para espremer cada centavo de retorno sobre o investimento. Cada clique é uma mina de ouro, e você é o minerador! 💸</p>
+            <p><strong style="color: #fae8e8;">📈Funil De Conversão!</p>
+                    <div style="text-align: center; margin-top: 20px;">
+                        <img src="https://andersonnunespro.com.br/wp-content/uploads/2022/01/marketing-de-conversao-andersonnunespro-gestor-de-trafego.gif" alt="Gestão de Tráfego" style="max-width: 100%; height: auto;">
+                    </div>
+                </div>
             </div>
         </div>
+            <p><strong style="color: #9dee9de7;">Prepare-se para uma aventura que vai deixar sua adrenalina nas alturas! 🎉</strong>estamos aqui para te levar em uma jornada de sucesso como você nunca viu antes! 🌄</p>
+            <p><strong style="color: #5878d1;">Seja um dos primeiros a pegar essa oportunidade pelo rabo! 🚀</strong> Inscrições iniciais garantem uma sessão de coaching individual, uma arma que vai elevar suas habilidades ao status de lendárias! ⚔️</p>
+            <div class="video-container">
+                <div class="video-title">
+                    <p><strong style="color: #e00f0f;">📈Aprenda a Ganhar Dinheiro Rapidamente com Tráfego Pago!</p>
+                    <div style="text-align: center; margin-top: 20px;">
+                        <img src="https://highsales.digital/images/blog/gestao-de-trafego.gif" alt="Gestão de Tráfego" style="max-width: 100%; height: auto;">
+                    </div>
+                </div>
+            </div>
+        </div>
+            <p><strong style="color: #06e611;">Mas segura aí, tem mais! 🎁<strong style="color: #fcfdfc;"> Ao se inscrever, você não apenas obtém acesso ao material do curso, você obtém acesso VITALÍCIO! Isso mesmo, para sempre! 📚</p>
+            <p><strong style="color: #5878d1;">A hora é AGORA! 🔥</strong> A aventura está prestes a começar, e você está pronto para conquistar o mundo do tráfego pago como um verdadeiro mestre! O que você está esperando? Inscreva-se AGORA! 🌎</p>
+        </div>
+        
+       
+    <a class="cta-button" href="https://go.hotmart.com/D86832944Q">Inscreva-se agora</a>
+
+    <div style="text-align: center; margin-top: 10px;">
+        <div class="course-price">Apenas: R$ 24,99</div>
+    </div>
+
+                
+        
+
+        
+        
         
         <!-- Emojis e espaço para fotos -->
         <div class="emojis">
             😃✨📈
         </div>
-            <!-- Local para quatro fotos -->
+        <!-- Local para quatro fotos -->
         <div class="photo-container">
-          <img class="photo" src="https://cookieweb.com.br/wp-content/uploads/2023/06/melhor-agencia-de-trafego-pago.png" alt="Foto 1">
-          <img class="photo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySK_JPyQmDnUzpC2xXeMwgIUCpgtZKQlyfA&usqp=CAU" alt="Foto 2">
-          <img class="photo" src="https://teletype.in/files/16/39/16398302-bd70-4340-b6ea-4a4790e34e07.png" alt="Foto 3">
-          <img class="photo" src="https://gomadigital.com.br/wp-content/uploads/2022/04/Gestao-de-trafego-para-pequenas-empresas-1.png" alt="Foto 4">
-          <img class="photo" src="https://i.ytimg.com/vi/JPa2dhF3zFg/maxresdefault.jpg" alt="Foto 1">
-          <img class="photo" src="https://rodlopes.com.br/wp-content/uploads/2022/09/Como-Comecar-Na-Gestao-De-Trafego-Pago.jpg" alt="Foto 1">
+            <img class="photo" src="https://cookieweb.com.br/wp-content/uploads/2023/06/melhor-agencia-de-trafego-pago.png" alt="Foto 1">
+            <img class="photo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySK_JPyQmDnUzpC2xXeMwgIUCpgtZKQlyfA&usqp=CAU" alt="Foto 2">
+            <img class="photo" src="https://teletype.in/files/16/39/16398302-bd70-4340-b6ea-4a4790e34e07.png" alt="Foto 3">
+            <img class="photo" src="https://gomadigital.com.br/wp-content/uploads/2022/04/Gestao-de-trafego-para-pequenas-empresas-1.png" alt="Foto 4">
+            <img class="photo" src="https://i.ytimg.com/vi/JPa2dhF3zFg/maxresdefault.jpg" alt="Foto 1">
+            <img class="photo" src="https://rodlopes.com.br/wp-content/uploads/2022/09/Como-Comecar-Na-Gestao-De-Trafego.jpg" alt="Foto 1">
         </div>
-          <!-- Informações de contato -->
+        <!-- Informações de contato -->
         <div class="contact">
             Fale conosco: 
             <a href="https://wa.me/48999626351" target="_blank">WhatsApp</a>
-            <a href="https://www.instagram.com/o_tal_do_pirata_ofc" target="_blank">Instagram</a>
-        </div>
+         </div>
     </div>
 </body>
 </html>
