@@ -160,21 +160,17 @@
             <p><strong style="color: #fae8e8;">📈Funil De Conversão!
                     <div style="text-align: center; margin-top: 20px;">
                         <img src="https://andersonnunespro.com.br/wp-content/uploads/2022/01/marketing-de-conversao-andersonnunespro-gestor-de-trafego.gif" alt="Gestão de Tráfego" style="max-width: 100%; height: auto;">
-        </div>
             <p><strong style="color: #9dee9de7;">Prepare-se para uma aventura que vai deixar sua adrenalina nas alturas! 🎉</strong>estamos aqui para te levar em uma jornada de sucesso como você nunca viu antes! 🌄</p>
             <p><strong style="color: #5878d1;">Seja um dos primeiros a pegar essa oportunidade pelo rabo! 🚀</strong> Inscrições iniciais garantem uma sessão de coaching individual, uma arma que vai elevar suas habilidades ao status de lendárias! ⚔️</p>
             <div class="video-container">
                 <div class="video-title">
-                    <p><strong style="color: #e00f0f;">📈Aprenda a Ganhar Dinheiro Rapidamente com Tráfego Pago!</p>
+                    <p><strong style="color: #e00f0f;">📈Aprenda a Ganhar Dinheiro Rapidamente com Tráfego Pago!
                     <div style="text-align: center; margin-top: 20px;">
                         <img src="https://highsales.digital/images/blog/gestao-de-trafego.gif" alt="Gestão de Tráfego" style="max-width: 100%; height: auto;">
-                    </div>
-                </div>
-            </div>
+
         </div>
             <p><strong style="color: #06e611;">Mas segura aí, tem mais! 🎁<strong style="color: #fcfdfc;"> Ao se inscrever, você não apenas obtém acesso ao material do curso, você obtém acesso VITALÍCIO! Isso mesmo, para sempre! 📚
             <p><strong style="color: #5878d1;">A hora é AGORA! 🔥</strong> A aventura está prestes a começar, e você está pronto para conquistar o mundo do tráfego pago como um verdadeiro mestre! O que você está esperando? Inscreva-se AGORA! 🌎
-        </div>
         
        
     <a class="cta-button" href="https://go.hotmart.com/D86832944Q">Inscreva-se agora</a>
@@ -207,6 +203,3 @@
             Fale conosco: 
             <a href="https://wa.me/48999626351" target="_blank">WhatsApp</a>
          </div>
-    </div>
-</body>
-</html>
