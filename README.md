@@ -173,7 +173,7 @@
             <p><strong style="color: #5878d1;">A hora é AGORA! 🔥</strong> A aventura está prestes a começar, e você está pronto para conquistar o mundo do tráfego pago como um verdadeiro mestre! O que você está esperando? Inscreva-se AGORA! 🌎
         
        
-    <a class="cta-button" href="https://go.hotmart.com/D86832944Q">Inscreva-se agora</a>
+    <a class="cta-button" href="https://pay.hotmart.com/D86832944Q">Compre-Agora</a>
 
     <div style="text-align: center; margin-top: 10px;">
         <div class="course-price">Apenas: R$ 24,99</div>
